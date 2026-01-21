@@ -119,7 +119,7 @@ local menuData = {
     ["TROLL"] = {"Auto win Death"}, -- este es el que estaba antes en troll
     ["INOCENT"] = {"AUTO WIN","SEMI-GODMODE"},
     ["MISC"] = {"QUITAR ANIMACIÓN"},
-    ["YouTube"] = {"YOUTUBE:SEBAS SCRIPT","SUSCRIBETE :)"}
+    ["YouTube"] = {"YOUTUBE:SBS HUB","SUSCRIBETE :)"}
 }
 
 local function clearFrame(frame)
